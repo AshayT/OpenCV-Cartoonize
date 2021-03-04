@@ -1,9 +1,0 @@
-python==3.6.12
-numpy==1.19.5
-Flask==1.1.2
-gunicorn==20.0.4
-itsdangerous==1.1.0
-Jinja2==2.11.3
-certifi==2020.12.05
-cv2==4.5.1
-
